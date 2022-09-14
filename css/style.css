@@ -11,6 +11,11 @@
   width: 35%;
 }
 
+.loremipsumStyle {
+  font-size: 18px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
 header {
   height: 30px;
   background-color: #007500;
@@ -122,4 +127,5 @@ th {
 .visual-styles {
   font-size: 16px;
   padding: 5px;
+  font-family: Arial, Helvetica, sans-serif;
 }
